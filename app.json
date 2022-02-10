@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nubank_clone",
+    "slug": "nubank_clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nubank_clone"
+}
